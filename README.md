@@ -213,3 +213,17 @@
 > - 如果涉及使用第三方代码，请务必遵从相关的开源许可协议。
 > - 模型生成的内容准确性可能受到计算方法、随机因素等的影响，因此，我们不对模型输出的准确性提供任何保证，也不会对使用相关资源和输出结果产生的任何损失承担责任。
 > - 如果将相关模型用于商业用途，开发者应遵守当地法律法规，确保模型输出内容的合规性。本项目不对任何由此衍生的产品或服务承担责任。
+
+## Citation
+
+如果您发现该项目对您的研究有用，请考虑引用：
+
+```bibtex
+@inproceedings{zhuang2024tilamb,
+  title={TiLamb：基于增量预训练的藏文大语言模型 (TiLamb: A Tibetan Large Language Model Based on Incremental Pre-training)},
+  author={Zhuang, Wenhao and Sun, Yuan and Zhao, Xiaobing},
+  booktitle={Proceedings of the 23th Chinese National Conference on Computational Linguistics},
+  pages={},
+  year={2024}
+}
+```
